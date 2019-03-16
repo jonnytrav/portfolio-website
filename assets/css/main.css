@@ -1599,7 +1599,10 @@ input, select, textarea {
 			}
 
 		}
-
+		
+		#about .centered-p {
+			text-align: center;
+		}
 /* Footer */
 
 	#footer {
